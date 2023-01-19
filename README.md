@@ -17,8 +17,8 @@ Projetos #boraCordar da Rocketseat
         <tr>
           <td>2</td>
           <td>Product Card</td>
-          <td>19/01/2022</td>
-          <td><a href="02"></a></td>
+          <td>19/01/2023</td>
+          <td><a href="02">🔗</a></td>
         </tr>
       </tbody>
     </table>
