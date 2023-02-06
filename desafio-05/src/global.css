@@ -1,0 +1,17 @@
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: linear-gradient(180deg, #807ece 0%, #8e7ece 100%);
+  font-size: 1.6rem;
+  font-family: 'Rubik', sans-serif;
+}
