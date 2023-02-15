@@ -14,7 +14,7 @@ Projetos #boraCordar da Rocketseat
         </tr>
       </thead>
       <tbody>
-        <tr>
+        <tr>hh
           <td>2</td>
           <td>Product Card</td>
           <td>19/01/2023</td>
@@ -25,6 +25,18 @@ Projetos #boraCordar da Rocketseat
           <td>Chat</td>
           <td>02/02/2023</td>
           <td><a href="desafio-04">🔗</a></td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Calculadora</td>
+          <td>08/02/2023</td>
+          <td><a href="desafio-05">🔗</a></td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Chat</td>
+          <td>15/02/2023</td>
+          <td><a href="desafio-06">🔗</a></td>
         </tr>
       </tbody>
     </table>

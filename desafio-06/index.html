@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cartão de embarque</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="favicon.png" />
+    <script src="https://unpkg.com/phosphor-icons"></script>
+  </head>
+  <body>
+    <div id="container">
+      <p class="title_card">Cartão de embarque</p>
+
+      <div id="card">
+        <div id="top_card">
+          <div class="top_card_content">
+            <div class="horizontal_label">
+              <p>Voo</p>
+              <p>Data</p>
+            </div>
+
+            <div class="horizontal_value">
+              <p>RS995</p>
+              <p>23/05/2023</p>
+            </div>
+          </div>
+
+          <div class="top_card_content">
+            <div class="horizontal_label">
+              <p>São Paulo, Brasil</p>
+              <p>São Francisco, EUA</p>
+            </div>
+
+            <div class="horizontal_value">
+              <p>GRU</p>
+              <i class="ph-airplane-takeoff-fill"></i>
+              <p>SFO</p>
+            </div>
+
+            <div class="horizontal_value">
+              <p>17:00</p>
+              <p>04:48</p>
+            </div>
+          </div>
+        </div>
+
+        <div id="middle_card">
+          <div class="middle_card_content">
+            <div class="horizontal_label">
+              <p>Passageiro</p>
+              <p>Assento</p>
+            </div>
+
+            <div class="horizontal_value">
+              <p>Rodrigo Terron</p>
+              <p>28A</p>
+            </div>
+          </div>
+        </div>
+
+        <div id="bottom_card">
+          <div class="bottom_card_content">
+            <div class="bottom_card_content_box">
+              <div class="bottom_card_content_left">
+                <div class="bottom_card_content_left_box">
+                  <div class="bottom_card_label">Embarque</div>
+                  <div class="bottom_card_value">16:15</div>
+                </div>
+
+                <div class="bottom_card_content_left_box">
+                  <div class="bottom_card_label">Terminal</div>
+                  <div class="bottom_card_value">2</div>
+                </div>
+
+                <div class="bottom_card_content_left_box">
+                  <div class="bottom_card_label">Portão</div>
+                  <div class="bottom_card_value">15</div>
+                </div>
+              </div>
+
+              <div class="bottom_card_content_right">
+                <img src="./assets/qr_code.png" alt="qr_code" />
+                <p>Grupo de embarque: 3</p>
+              </div>
+            </div>
+
+            <div class="bottom_card_footer">
+              <p><strong>Atenção:</strong> o portão fecha 16:45</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer">
+        Qualquer problema procure o balcão de atendimento da sua companhia aérea
+      </div>
+    </div>
+  </body>
+</html>
