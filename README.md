@@ -2,7 +2,7 @@
 
 Projetos #boraCordar da Rocketseat
 
-[acess aos desafios clicando aqui](https://boracodar.dev/)
+[BoraCodar.dev](https://boracodar.dev/)
 
 <table>
       <thead>
@@ -15,7 +15,7 @@ Projetos #boraCordar da Rocketseat
         </tr>
       </thead>
       <tbody>
-        <tr>hh
+        <tr>
           <td>2</td>
           <td>Product Card</td>
           <td>19/01/2023</td>
@@ -36,9 +36,9 @@ Projetos #boraCordar da Rocketseat
           <td><a href="desafio-05">🔗</a></td>
 					<td></td>
         </tr>
-        <tr>
+				<tr>
           <td>6</td>
-          <td>Chat</td>
+          <td>Cartão de embarque</td>
           <td>15/02/2023</td>
           <td><a href="desafio-06">🔗</a></td>
 					<td><a href="https://boracodar-one.vercel.app/" target="_blank">🚀</a></td>
