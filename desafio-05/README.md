@@ -6,6 +6,6 @@ Projeto de uma interface de uma calculadora.
 
 ## ToDo
 
-- [] Adicionar funcionalidades de uma calculadora
+- [x] Adicionar funcionalidades de uma calculadora
 
-[Live demo](https://boracodar-one.vercel.app/)
+<a href="https://boracodar-one.vercel.app/" target="_blank">Live demo</a>
